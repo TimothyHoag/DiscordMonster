@@ -1,7 +1,7 @@
 <?php 
 
 define('WEBHOOK_SALT', '15938268e524d0faed754156e9f5af001ac3aff9');
-define('DISCORD_WEBHOOK_URL', 'hhttps://ptb.discord.com/api/webhooks/810560489024913459/GaehTKYT7mrlH6DJtVpbiN1Tjp7ESAMeFhK0m_7D5kMQfzezls5DSfm9jKw5Luvia-7Nttps://ptb.discord.com/api/webhooks/807455178525245451/_AHdgMK4d4ghKoUZ2fulLXGCOCGJlX1pcx2gG0DMaSsx8sAw3tt7zYLSV-HNKiakFkT5');
+define('DISCORD_WEBHOOK_URL', 'https://ptb.discord.com/api/webhooks/810560489024913459/GaehTKYT7mrlH6DJtVpbiN1Tjp7ESAMeFhK0m_7D5kMQfzezls5DSfm9jKw5Luvia-7N');
 define('ENABLE_DEBUG', false);
 define('DEBUG_EMAIL', 'tjhoag@svsu.edu');
 
